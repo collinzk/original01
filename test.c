@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int mian(int argc, char* argv[])
+int main(int argc, char* argv[])
 {
 
 	printf("aaaa\n");
